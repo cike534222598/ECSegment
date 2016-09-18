@@ -1,0 +1,16 @@
+PODS:
+  - ECSegment (0.1.0)
+
+DEPENDENCIES:
+  - ECSegment (from `../`)
+
+EXTERNAL SOURCES:
+  ECSegment:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ECSegment: bccea945896c2b75eca62e6150dfb1cee8d68887
+
+PODFILE CHECKSUM: 92f0cb04f6b7786cc154444d855747794a0aa4af
+
+COCOAPODS: 1.0.1
