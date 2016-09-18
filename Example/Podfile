@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ECSegment_Example' do
+  pod 'ECSegment', :path => '../'
+
+  target 'ECSegment_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
